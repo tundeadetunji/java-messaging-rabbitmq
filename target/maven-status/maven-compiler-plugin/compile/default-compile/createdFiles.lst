@@ -1,0 +1,4 @@
+com\inovationware\messaging\rabbitmq\Consumer.class
+com\inovationware\messaging\rabbitmq\Sender.class
+com\inovationware\messaging\rabbitmq\Consumer$2.class
+com\inovationware\messaging\rabbitmq\Consumer$1.class
